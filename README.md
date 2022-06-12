@@ -1,5 +1,6 @@
 # keysDownLib
-Created in 2022 by Gili Reeves
+Created in 2022 by Gili Reeves.
+
 This is a super simple library that makes using keys in JavaScript a lot easier.
 
 # How to use:
