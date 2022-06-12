@@ -2,7 +2,7 @@
 Created in 2022 by Gili Reeves
 This is a super simple library that makes using keys in JavaScript a lot easier.
 
-HOW TO USE:
+# HOW TO USE:
 1) When using this library, you have a choice between two options:
 a) You can just use the keyHandler object as it already exists here and run all of it's functions from it's namespace.
 b) You can easily create a pointer to the keyHandler object by running: yourNewName = keyHandler;
