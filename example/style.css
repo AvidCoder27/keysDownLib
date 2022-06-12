@@ -1,0 +1,10 @@
+body{
+    background-color:lightblue;
+    align-items: center;
+}
+div{
+    text-align: center;
+}
+canvas{
+    background-color:white;
+}
